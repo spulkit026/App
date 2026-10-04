@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Google Cloud Scholarship 2026",
+    "org": "Google Cloud",
+    "deadline": "2026-10-15",
+    "link": "https://cloud.withgoogle.com/scholarship",
+    "tags": ["cloud", "beginners"]
+  },
+  {
+    "title": "Arunachal Hackathon 2026 – Problem Statement 1",
+    "org": "Coding Pundit / Hack4Brahma",
+    "deadline": "2026-10-04 11:00",
+    "link": "https://example.com",
+    "tags": ["hackathon", "project"]
+  },
+  {
+    "title": "Microsoft Learn Student Ambassador",
+    "org": "Microsoft",
+    "deadline": "2026-12-31",
+    "link": "https://aka.ms/studentambassador",
+    "tags": ["career", "leadership"]
+  },
+  {
+    "title": "Infosys Spring Week 2026",
+    "org": "Infosys",
+    "deadline": "2026-11-01",
+    "link": "https://www.infosys.com/careers/spring-week.html",
+    "tags": ["internship", "finance"]
+  },
+  {
+    "title": "NASA Space Apps Challenge 2026",
+    "org": "NASA",
+    "deadline": "2026-10-08",
+    "link": "https://spaceappschallenge.org/",
+    "tags": ["stem", "outreach"]
+  }
+]

@@ -1,0 +1,4 @@
+/* Tiny hack‑athon styling – keeps things readable without a full framework */
+body { font-family: system-ui, sans-serif; max-width: 800px; margin: auto; }
+.card { margin-bottom: 1rem; }
+.badge { font-size: 0.85rem; }
